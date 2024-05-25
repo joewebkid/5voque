@@ -1,5 +1,8 @@
 {
   "id": 0,
+  "location": {
+    "image": "ar1/ar0_war.png"
+  },
   "messages": [
     {
       "author": "Рассказчик",
